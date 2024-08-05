@@ -1,0 +1,7 @@
+hi good afternoon
+
+we are exploring the git checkout file2.txt
+
+along with git reset and git revert
+
+added new line and commint the change
