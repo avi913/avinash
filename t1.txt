@@ -5,7 +5,4 @@ hello we are checkig the
 git commit cmd
 
 checkig the git reset --soft
-
 demonstrate the git reset --mixed
-
-good morning
