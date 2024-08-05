@@ -6,5 +6,3 @@ git commit cmd
 
 checkig the git reset --soft
 demonstrate the git reset --mixed
-hello good evenig
-hello good afternoon
